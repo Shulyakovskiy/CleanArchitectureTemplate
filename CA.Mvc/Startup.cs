@@ -6,6 +6,7 @@ using CA.Mvc.Data;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using CA.Infra.Data.Context;
 
 namespace CA.Mvc
 {
